@@ -3,11 +3,17 @@ Vacation Vista is a full-stack web application designed to facilitate vacation r
 
 Key Features:
 ✔️ Property Listings Management – Users can create, edit, and delete vacation rental listings with details like title, description, location, country, price, and images.
+<br>
 ✔️ Server-Side Validation – Implemented robust data validation using Joi to ensure proper data integrity before storing listings.
+<br>
 ✔️ Error Handling & Security – Custom error-handling middleware and method override techniques enhance the security and reliability of the platform.
+<br>
 ✔️ Dynamic UI with EJS – Leveraging EJS as a templating engine, ensuring a dynamic and responsive front-end.
+<br>
 ✔️ Database Integration with MongoDB – Utilized Mongoose ORM to handle data efficiently, supporting robust query handling and validation.
+<br>
 ✔️ MVC Architecture – Structured the project following the Model-View-Controller (MVC) pattern for maintainability and scalability.
+<br>
 ✔️ Express.js & Middleware – Built using Express.js, incorporating middleware for routing, validation, and authentication mechanisms.
 
 Tech Stack:
