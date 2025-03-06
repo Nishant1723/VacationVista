@@ -1,6 +1,4 @@
 # Vacation-Vista
-<br>
-<br>
 Vacation Vista is a full-stack web application designed to facilitate vacation rental management. It allows users to browse, list, and manage vacation properties with an intuitive interface and seamless CRUD (Create, Read, Update, Delete) operations. The platform provides a secure, scalable, and user-friendly experience, ensuring smooth interactions for both property owners and travelers.
 <br>
 <br>
@@ -34,7 +32,9 @@ Tech Stack:
 <br>
 <br>
 🔹 Backend: Node.js, Express.js, MongoDB (Mongoose)
+<br>
 🔹 Frontend: EJS (Embedded JavaScript Templating)
+<br>
 🔹 Middleware: Custom Error Handling
 <br>
 <br>
@@ -42,9 +42,13 @@ Role & Contributions:
 <br>
 <br>
 🔹 Designed and implemented RESTful APIs for seamless data management.
+<br>
 🔹 Developed Express.js routes for listing retrieval, creation, updating, and deletion.
+<br>
 🔹 Integrated MongoDB with Mongoose for efficient database interactions.
+<br>
 🔹 Created error handling middleware to manage application errors dynamically.
+<br>
 🔹 Applied EJS templating to render dynamic pages based on database queries.
 <br>
 <br>
