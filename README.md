@@ -3,7 +3,7 @@ Vacation Vista is a full-stack web application designed to facilitate vacation r
 <br>
 <br>
 
-#Key Features:-
+# Key Features:-
 <br>
 <br>
 ✔️ Property Listings Management – Users can create, edit, and delete vacation rental listings with details like title, description, location, country, price, and images.
@@ -28,7 +28,7 @@ Vacation Vista is a full-stack web application designed to facilitate vacation r
 <br
 <br>
 
-#Tech Stack:-
+# Tech Stack:-
 <br>
 <br>
 🔹 Backend: Node.js, Express.js, MongoDB (Mongoose)
@@ -38,7 +38,7 @@ Vacation Vista is a full-stack web application designed to facilitate vacation r
 🔹 Middleware: Custom Error Handling
 <br>
 <br>
-#Role & Contributions:
+# Role & Contributions:
 <br>
 <br>
 🔹 Designed and implemented RESTful APIs for seamless data management.
